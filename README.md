@@ -1,7 +1,7 @@
 # big-factorial
 - Calculates factorials for large numbers (meaning, the factorial of the number is too large to store in the int data type)
 
-- Written in ARM Assembly on a Raspberry Pi 3
+- Written in Assembly on a Raspberry Pi 3 (ARMv8 instruction set)
 
 - Uses linked lists to store the factorial
 
